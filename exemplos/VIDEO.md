@@ -1,7 +1,7 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+# Vídeo: A Jornada Lunar de Astro, o Cachorro dos Sonhos 🎥
 
 ## 📒 Descrição
-Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+Este vídeo de 3 minuto apresenta uma história de um cachorro que queria ir a lua.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
@@ -14,7 +14,7 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essen
 ## 🚀 Resultados
 O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
 
-[LINK PARA O VÍDEO AQUI]()
+[https://studio.d-id.com/share?id=c0abe2f81fa481ae975a3904db1fa950&utm_source=copy]()
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
